@@ -1,0 +1,23 @@
+{
+     "ts": 0.01,
+     "eps": 0.001,
+     "max_steering": 0.4,
+     "min_steering": -0.4,
+     "max_delta_steering": 0.08,
+     "min_delta_steering": -0.08,
+     "weights_q": [
+          5,
+          5,
+          30
+     ],
+     "weights_r": [
+          50
+     ],
+     "cutoff_freq": 100,
+     "mean_filter_window_size": 0.0,
+     "max_lateral_acceleration": 0.0,
+     "standstill_acceleration": 0.0,
+     "controls_step": 3,
+     "horizon": 15,
+     "compensation_angle_rad": -0.003272492
+}

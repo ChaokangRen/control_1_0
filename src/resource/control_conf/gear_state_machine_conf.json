@@ -1,0 +1,7 @@
+{
+    "duration_upper_limit": 50,
+    "duration_upper_limit_brake": 50,
+    "brake_threshold_value": 30,
+    "epsilon_v": 0.01,
+    "epsilon_a": 0.005
+}
